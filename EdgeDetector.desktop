@@ -1,0 +1,11 @@
+[Desktop Entry]
+Categories=Accessibility;Qt;Utility;
+Exec=EdgeDetector
+Name=EdgeDetector
+Name[zh_CN]=EdgeDetector
+Icon=EdgeDetector
+StartupNotify=false
+Terminal=false
+Type=Application
+GenericName=EdgeDetector
+Version=1.0
